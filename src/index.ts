@@ -1,2 +1,1 @@
-import Blockchain from './Blockchain';
-export default Blockchain;
+export { default as Blockchain } from './Blockchain';

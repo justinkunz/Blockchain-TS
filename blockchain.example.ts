@@ -1,4 +1,4 @@
-import Blockchain from './src';
+import { Blockchain } from './src';
 
 interface Transaction {
   amount: number;
